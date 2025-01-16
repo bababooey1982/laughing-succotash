@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64",
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "depends": [
+    "numpy",
+    "pillow >=8.3.2",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "name": "imageio",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1707247868201,
+  "version": "2.33.1"
+}
